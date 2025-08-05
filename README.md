@@ -11,10 +11,6 @@
 - 📦 Executável standalone gerado com PyInstaller
 - 🛠 Instalador profissional criado com Inno Setup
 
-## 🖼 Captura de Tela
-
-> Em breve uma imagem da interface gráfica
-
 ## 📦 Instalação
 
 ### ✅ Instalador (Windows)
@@ -73,4 +69,4 @@ Distribuído sob a licença MIT.
 ## 🙋‍♂️ Autor
 
 Desenvolvido por **Gerson Junior**  
-[LinkedIn](https://www.linkedin.com)
+[LinkedIn](https://https://www.linkedin.com/in/gersonjuniordev/)
