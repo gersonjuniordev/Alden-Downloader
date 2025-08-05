@@ -69,4 +69,4 @@ Distribuído sob a licença MIT.
 ## 🙋‍♂️ Autor
 
 Desenvolvido por **Gerson Junior**  
-[LinkedIn](https://https://www.linkedin.com/in/gersonjuniordev/)
+[LinkedIn](https://www.linkedin.com/in/gersonjuniordev/)
